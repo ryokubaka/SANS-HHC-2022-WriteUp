@@ -1,6 +1,6 @@
 # The North Pole
 
-![](loc-northpoleentrance.png)
+![[../resources/screenshots/loc-northpoleentrance.png]]
 
 After entering the North Pole, we see Santa in front of us. He tells us that he's lost his `Five Golden Rings`, and without them we can't launch the holiday season. He puts us on the official quest to find and return these rings to him in order to save the holidays (and.. the whole world, apparently)! 
 
@@ -20,7 +20,7 @@ We're given 5 objectives in our badge to collect the five rings below. The links
 
 Walking around/exploring, I find a secret room behind the building on the left hand side.
 
-![](loc-secretbackroom.png)
+![[../resources/screenshots/loc-secretbackroom.png]]
 
 We see a `Santa Magic` terminal. The terminal has a picture of Santa who claims that even though we were told the private key to our wallet couldn't be recovered, he could, but we need to prove ourselves first. He tells us to go on a quest to find Yukon Conrnelius to find what he calls a `Bumble`. .... Well, I'll just paste the rest of his long dialogue here, but long story short - he just tells us our key at the end, which means we can come back here if we ever happen to lose it.
 
@@ -59,7 +59,7 @@ Then, if you come back here, I will tell you...
 Write it down, NOW, mmmmmkay?
 ```
 
-![](loc-northpoleeastpaths.png)
+![[../resources/screenshots/loc-northpoleeastpaths.png]]
 
 Looking around the space, we see three paths - in the center leads to a labyrinth, to the northeast leads to a closed door (with Chimney Scissorsticks standing to the right of it), and to the southeast is another closed door.
 
