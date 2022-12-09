@@ -4,7 +4,7 @@
 
 In Wireshark, we go to `File -> Export objects -> HTTP` and see the following screen:
 
-![](suspiciouspcap-exportfile.png)
+![[suspiciouspcap-exportfile.png]]
 
 Answer: **http**
 

@@ -11,9 +11,11 @@
             "id": "e683794bb9f6ee7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/screenshots/loc-entrance.png"
+                "file": "3-rings/1-tolkien/suspiciouspcap/solution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/screenshots/loc-entrance.png",
+                "file": "3-rings/1-tolkien/suspiciouspcap/solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/screenshots/loc-entrance.png",
+                "file": "3-rings/1-tolkien/suspiciouspcap/solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/screenshots/loc-entrance.png"
+                "file": "3-rings/1-tolkien/suspiciouspcap/solution.md"
               }
             }
           }
@@ -135,6 +137,7 @@
   },
   "active": "e683794bb9f6ee7d",
   "lastOpenFiles": [
+    "resources/screenshots/loc-entrance.png",
     "resources/screenshots/introterminal-intro.png",
     "resources/screenshots/hint - solidhint.png",
     "resources/screenshots/suspiciouspcap-countrycolumn.png",
@@ -143,7 +146,6 @@
     "resources/screenshots/loc-labyrinth-ladder1.png",
     "resources/screenshots/suspiciouspcap-countryfilter.png",
     "resources/screenshots/loc-northpoleeastpaths.png",
-    "resources/screenshots/suspiciouspcap-apacheip.png",
-    "resources/screenshots/misc-ktmaccountcreation.png"
+    "resources/screenshots/suspiciouspcap-apacheip.png"
   ]
 }
