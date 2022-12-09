@@ -1,6 +1,6 @@
 # Windows Event Logs
 
-![[../../../resources/screenshots/windowseventlog-prompt.png]]
+![](../../../resources/screenshots/windowseventlog-prompt.png)
 
 ### **Question 1. What month/day/year did the attack take place? For example, 09/05/2021**
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-orientation/1-orientation.md"
+                "file": "3-rings/1-tolkien/windowseventlogs/solution.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "e683794bb9f6ee7d",
   "lastOpenFiles": [
+    "3-rings/1-tolkien/suspiciouspcap/solution.md",
     "2-northpole/2-labyrinth.md",
     "2-northpole/1-northpole.md",
+    "1-orientation/1-orientation.md",
+    "1-orientation/map.md",
     "3-rings/1-tolkien/README.md",
     "3-rings/1-tolkien/windowseventlogs/solution.md",
-    "3-rings/1-tolkien/suspiciouspcap/solution.md",
     "Pasted image 20221208210519.png",
     "resources/screenshots/suspiciouspcap-apacheip.png",
-    "resources/screenshots/loc-entrance.png",
-    "resources/screenshots/introterminal-intro.png",
-    "resources/screenshots/hint - solidhint.png"
+    "resources/screenshots/loc-entrance.png"
   ]
 }
