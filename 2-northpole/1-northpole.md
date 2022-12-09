@@ -1,26 +1,26 @@
 # The North Pole
 
-![](0-northpoleentrance.png)
+![](loc-northpoleentrance.png)
 
 After entering the North Pole, we see Santa in front of us. He tells us that he's lost his `Five Golden Rings`, and without them we can't launch the holiday season. He puts us on the official quest to find and return these rings to him in order to save the holidays (and.. the whole world, apparently)! 
 
 We're given 5 objectives in our badge to collect the five rings below. The links will take you to the write-ups for how we capture the rings!
 
->[Tolkien Ring](../3-rings/1-tolkien/1-tolkien.md)
+>[Tolkien Ring](3-rings/1-tolkien/README.md)
 
->[Elfen Ring](../3-rings/2-elfen/1-elfen.md)
+>[Elfen Ring](3-rings/2-elfen/README.md)
 
->[Web Ring](../3-rings/3-web/1-web.md)
+>[Web Ring](3-rings/3-web/README.md)
 
->[Cloud Ring](../3-rings/4-cloud/1-cloud.md)
+>[Cloud Ring](3-rings/4-cloud/README.md)
 
->[Burning Ring of Fire](../3-rings/5-burningringoffire/1-burningringoffire.md)
+>[Burning Ring of Fire](3-rings/5-burningringoffire/README.md)
 
 ## Secret Backroom
 
 Walking around/exploring, I find a secret room behind the building on the left hand side.
 
-![](1-secretbackroom.png)
+![](loc-secretbackroom.png)
 
 We see a `Santa Magic` terminal. The terminal has a picture of Santa who claims that even though we were told the private key to our wallet couldn't be recovered, he could, but we need to prove ourselves first. He tells us to go on a quest to find Yukon Conrnelius to find what he calls a `Bumble`. .... Well, I'll just paste the rest of his long dialogue here, but long story short - he just tells us our key at the end, which means we can come back here if we ever happen to lose it.
 
@@ -59,7 +59,7 @@ Then, if you come back here, I will tell you...
 Write it down, NOW, mmmmmkay?
 ```
 
-![](2-northpolepaths.png)
+![](loc-northpoleeastpaths.png)
 
 Looking around the space, we see three paths - in the center leads to a labyrinth, to the northeast leads to a closed door (with Chimney Scissorsticks standing to the right of it), and to the southeast is another closed door.
 

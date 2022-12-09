@@ -4,7 +4,7 @@
 
 In Wireshark, we go to `File -> Export objects -> HTTP` and see the following screen:
 
-![](1-export.png)
+![](suspiciouspcap-exportfile.png)
 
 Answer: **http**
 
@@ -24,7 +24,7 @@ Answer: **687**
 
 In the main Wireshark screen, go to packet 687. We can see that this is a HTTP OK response, which means it's the server responding to a client. This means the Apache server is the source IP address.
 
-![](2-apacheip.png)
+![](suspiciouspcap-apacheip.png)
 
 Answer: **192.185.57.242**
 
@@ -45,13 +45,13 @@ Answer: **Ref_Sept24-2020.zip**
 1. To get this, I used the `tls` filter and looked for a **Server Hello** packet.
 2. Then, from the bottom section, I filtered down to where it identifies a certificate Country.  Right click on that, then select "Prepare as a filter"
 
-![](3-countrypreparefilter.png)
+![](suspiciouspcap-countryfilter.png)
 
 3. We find that the filter is **x509sat.CountryName**. I right click on the table headers and select "Column Preferences..."
 
 4. I create a new column, named "TLS Country", set the Type to "Custom", and put in the filter I found.
 
-![](4-countrycolumn.png)
+![](suspiciouspcap-countrycolumn.png)
 
 5. Now I sort on the new column and see the follow country codes used: `US`,`SS`,`IE`,`IL`. Using simple process of elimination, we know it's Israel (IL) and South Sudan (SS).
 

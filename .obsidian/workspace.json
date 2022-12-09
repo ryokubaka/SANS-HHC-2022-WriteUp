@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7e04a33898b338de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5620b2689e090856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e683794bb9f6ee7d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "resources/screenshots/loc-entrance.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2d4c73274233cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e12eac144b09b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb2fbd2e1202c94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3e32b382db286e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6ec93a0972233c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "382a6502ecc8c24f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fbf9e34485db5fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840970065181586c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "resources/screenshots/loc-entrance.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e95b64f265aa78e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "resources/screenshots/loc-entrance.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caeb2a6a36e36c6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "538934bfc6f075e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "resources/screenshots/loc-entrance.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "e683794bb9f6ee7d",
+  "lastOpenFiles": [
+    "resources/screenshots/introterminal-intro.png",
+    "resources/screenshots/hint - solidhint.png",
+    "resources/screenshots/suspiciouspcap-countrycolumn.png",
+    "resources/screenshots/loc-talksroom-chest.png",
+    "resources/screenshots/loc-labyrinth-ladder2.png",
+    "resources/screenshots/loc-labyrinth-ladder1.png",
+    "resources/screenshots/suspiciouspcap-countryfilter.png",
+    "resources/screenshots/loc-northpoleeastpaths.png",
+    "resources/screenshots/suspiciouspcap-apacheip.png",
+    "resources/screenshots/misc-ktmaccountcreation.png"
+  ]
+}
