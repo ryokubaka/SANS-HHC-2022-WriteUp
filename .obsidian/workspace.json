@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
+                "file": "3-rings/1-tolkien/windowseventlogs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb0c487eb6b192d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/1-tolkien/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2a918300449a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/2-elfen/prisonescape/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
+                "file": "3-rings/2-elfen/prisonescape/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-rings/1-tolkien/windowseventlogs/solution.md",
+                "file": "3-rings/2-elfen/prisonescape/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-rings/1-tolkien/windowseventlogs/solution.md"
+                "file": "3-rings/2-elfen/prisonescape/README.md"
               }
             }
           }
@@ -135,17 +160,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "e683794bb9f6ee7d",
+  "active": "adb2fbd2e1202c94",
   "lastOpenFiles": [
-    "3-rings/1-tolkien/suspiciouspcap/solution.md",
-    "2-northpole/2-labyrinth.md",
-    "2-northpole/1-northpole.md",
-    "1-orientation/1-orientation.md",
-    "1-orientation/map.md",
+    "3-rings/2-elfen/README.md",
+    "3-rings/2-elfen/clonewithadifference/README.md",
+    "3-rings/2-elfen/jollycicd/README.md",
+    "3-rings/2-elfen/prisonescape/README.md",
     "3-rings/1-tolkien/README.md",
-    "3-rings/1-tolkien/windowseventlogs/solution.md",
-    "Pasted image 20221208210519.png",
-    "resources/screenshots/suspiciouspcap-apacheip.png",
-    "resources/screenshots/loc-entrance.png"
+    "3-rings/3-web/README.md",
+    "2-northpole/2-labyrinth.md",
+    "3-rings/2-elfen/prisonescape/README.md",
+    "resources/screenshots/introterminal-intro.png",
+    "resources/screenshots/loc-elfen-elfhouse-1.png"
   ]
 }
