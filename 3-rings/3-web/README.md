@@ -1,1 +1,9 @@
 # Web Ring Room - Northpole Subterranean Labyrinth
+
+- Entering the room, we see `Alabaster Snowball` who gives us a  **victim.pcap** and **weberror.log**, which we need to complete the [boria challenges](boriaChallenges/README.md).  Let's complete these first!
+
+- We also see `Hal Tandybuck`, who is standing next to a [Boria Mine Door](boriaminedoor/REAMDE) challenge.
+
+- After completing these challenges, we enter a new location and see `Akbowl` next to some kind of [fountain](glamtarielsfountain/README).
+
+![](../../resources/screenshots/loc-web-fountain.png)
