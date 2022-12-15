@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-rings/4-cloud/gitsecrets/README.md",
+                "file": "2-northpole/1-northpole.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-rings/4-cloud/gitsecrets/README.md",
+                "file": "2-northpole/1-northpole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-rings/4-cloud/gitsecrets/README.md",
+                "file": "2-northpole/1-northpole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-rings/4-cloud/gitsecrets/README.md"
+                "file": "2-northpole/1-northpole.md"
               }
             }
           }
@@ -232,15 +232,15 @@
   },
   "active": "589a85599933c6ed",
   "lastOpenFiles": [
-    "3-rings/4-cloud/README.md",
-    "3-rings/4-cloud/awscliintro/README.md",
-    "3-rings/4-cloud/awsexploitcli/README.md",
-    "3-rings/3-web/README.md",
     "2-northpole/2-labyrinth.md",
-    "3-rings/3-web/glamtarielsfountain/README.md",
-    "resources/screenshots/loc-web-fountain.png",
-    "3-rings/3-web/boriaminedoor/README.md",
+    "3-rings/3-web/README.md",
     "3-rings/2-elfen/README.md",
-    "3-rings/3-web/boriaChallenges/README.md"
+    "3-rings/1-tolkien/README.md",
+    "3-rings/1-tolkien/windowseventlogs/README.md",
+    "3-rings/1-tolkien/suspiciouspcap/README.md",
+    "3-rings/1-tolkien/suricataregatta/README.md",
+    "3-rings/2-elfen/prisonescape/README.md",
+    "3-rings/2-elfen/jollycicd/README.md",
+    "3-rings/2-elfen/clonewithadifference/README.md"
   ]
 }

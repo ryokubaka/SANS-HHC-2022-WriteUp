@@ -24,4 +24,4 @@
 
 ![](../../../resources/screenshots/awscliintro-3-sol.png)
 
-And that was it! Back to the [cloud ring room](../README).
+And that was it! Back to the [cloud ring room](../README.md).

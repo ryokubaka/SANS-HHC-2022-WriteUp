@@ -4,7 +4,7 @@ Inside, we go down and jump on a boat, and head to the east.
 
 ![](../../resources/screenshots/loc-elfen-1.png)
 
-We come across `Bow Ninecandle` and a challenge [`Clone with a Difference`](clonewithadifference/README).
+We come across `Bow Ninecandle` and a challenge [`Clone with a Difference`](clonewithadifference/README.md).
 
 Completing the challenge, we move further right.  We see a new room with two levels.  
 
