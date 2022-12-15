@@ -71,14 +71,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-rings/3-web/glamtarielsfountain/README.md",
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf4c6de7b66c9ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539488d25efb39e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "589a85599933c6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/gitsecrets/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -144,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-rings/3-web/glamtarielsfountain/README.md",
+                "file": "3-rings/4-cloud/gitsecrets/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-rings/3-web/glamtarielsfountain/README.md",
+                "file": "3-rings/4-cloud/gitsecrets/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-rings/3-web/glamtarielsfountain/README.md"
+                "file": "3-rings/4-cloud/gitsecrets/README.md"
               }
             }
           }
@@ -194,17 +230,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "49eb9ce3ebccd23f",
+  "active": "589a85599933c6ed",
   "lastOpenFiles": [
+    "3-rings/4-cloud/README.md",
+    "3-rings/4-cloud/awscliintro/README.md",
+    "3-rings/4-cloud/awsexploitcli/README.md",
     "3-rings/3-web/README.md",
+    "2-northpole/2-labyrinth.md",
     "3-rings/3-web/glamtarielsfountain/README.md",
     "resources/screenshots/loc-web-fountain.png",
     "3-rings/3-web/boriaminedoor/README.md",
-    "2-northpole/2-labyrinth.md",
     "3-rings/2-elfen/README.md",
-    "3-rings/3-web/boriaChallenges/README.md",
-    "3-rings/2-elfen/jollycicd/README.md",
-    "3-rings/2-elfen/clonewithadifference/README.md",
-    "resources/screenshots/Pasted image 20221209000312.png"
+    "3-rings/3-web/boriaChallenges/README.md"
   ]
 }

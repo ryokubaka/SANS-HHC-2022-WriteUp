@@ -4,6 +4,8 @@
 
 - We also see `Hal Tandybuck`, who is standing next to a [Boria Mine Door](boriaminedoor/REAMDE) challenge.
 
-- After completing these challenges, we enter a new location and see `Akbowl` next to some kind of [fountain](glamtarielsfountain/README).
+- After completing these challenges, we enter a new location and see `Akbowl` next to some kind of [fountain](glamtarielsfountain/README). (Note: This challenge was awful in my opinion. WAY too much guessing.)
 
 ![](../../resources/screenshots/loc-web-fountain.png)
+
+Once we've secured the Web Ring, we head back into the [labyrinth](../../2-northpole/2-labyrinth)!
