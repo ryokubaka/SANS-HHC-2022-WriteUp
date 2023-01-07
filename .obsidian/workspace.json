@@ -13,13 +13,108 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "3-rings/1-tolkien/windowseventlogs/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb0c487eb6b192d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/1-tolkien/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2a918300449a7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/3-web/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb71c2936807e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/3-web/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aef4b9a970ba0ea5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "resources/screenshots/loc-web-fountain.png"
+              }
+            }
+          },
+          {
+            "id": "49eb9ce3ebccd23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf4c6de7b66c9ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "539488d25efb39e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-rings/4-cloud/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "589a85599933c6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-northpole/1-northpole.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "2-northpole/1-northpole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-orientation/1-orientation.md",
+                "file": "2-northpole/1-northpole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-orientation/1-orientation.md"
+                "file": "2-northpole/1-northpole.md"
               }
             }
           }
@@ -135,17 +230,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "e683794bb9f6ee7d",
+  "active": "589a85599933c6ed",
   "lastOpenFiles": [
     "2-northpole/2-labyrinth.md",
-    "2-northpole/1-northpole.md",
+    "3-rings/3-web/README.md",
+    "3-rings/2-elfen/README.md",
     "3-rings/1-tolkien/README.md",
-    "3-rings/1-tolkien/windowseventlogs/solution.md",
-    "3-rings/1-tolkien/suspiciouspcap/solution.md",
-    "Pasted image 20221208210519.png",
-    "resources/screenshots/suspiciouspcap-apacheip.png",
-    "resources/screenshots/loc-entrance.png",
-    "resources/screenshots/introterminal-intro.png",
-    "resources/screenshots/hint - solidhint.png"
+    "3-rings/1-tolkien/windowseventlogs/README.md",
+    "3-rings/1-tolkien/suspiciouspcap/README.md",
+    "3-rings/1-tolkien/suricataregatta/README.md",
+    "3-rings/2-elfen/prisonescape/README.md",
+    "3-rings/2-elfen/jollycicd/README.md",
+    "3-rings/2-elfen/clonewithadifference/README.md"
   ]
 }
