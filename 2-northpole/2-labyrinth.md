@@ -25,14 +25,14 @@ After we've captured the Tolkien Ring, we continue down the labyrinth past Grinc
 
 ![](../resources/screenshots/loc-labyrinth-ladder3.png)
 
-We see `Morcel Nougat`, and the Elfen Ring room. Morcel doesn't tell us much, so we head into the [Elfen Ring room](../3-rings/2-elfen/README).
+We see `Morcel Nougat`, and the Elfen Ring room. Morcel doesn't tell us much, so we head into the [Elfen Ring room](../3-rings/2-elfen/README.md).
 
 ---
 After grabbing the Elfen Ring, we head deeper into the labyrinth.
 
 ![](../resources/screenshots/loc-labyrinth-ladder4.png)
 
-We find `Tangle Coalbox` and the Web Ring room. Tangle says some nonsense about Flobbits. Let's head into the [Web Ring room](../3-rings/3-web/README).
+We find `Tangle Coalbox` and the Web Ring room. Tangle says some nonsense about Flobbits. Let's head into the [Web Ring room](../3-rings/3-web/README.md).
 
 ---
 Now that we've secured 3 of the 5 rings, we head back out and to the left. As I was about to go deeper down, I noticed a rope to the left. So, we climb up and to left to find a chest!
