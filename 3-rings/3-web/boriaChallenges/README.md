@@ -1,3 +1,5 @@
+# Boria Challenges
+
 ### **Challenge 1: Naughty IP**
 
 ![](../../../resources/screenshots/boria-naughtyip-prompt.png)
@@ -52,3 +54,5 @@ Answer: **/proc**
 ![](../../../resources/screenshots/boria-imdsxxe-xml.png)
 
 Answer: **http://169.254.169.254/latest/meta-data/identity-credentials/ec2/security-credentials/ec2-instance**
+
+Back to the [web room](../README.md)!

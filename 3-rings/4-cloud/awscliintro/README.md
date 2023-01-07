@@ -1,4 +1,6 @@
-1:
+# AWS CLI Intro
+
+### 1:
 
 ![](../../../resources/screenshots/awscliintro-1.png)
 
@@ -6,7 +8,7 @@
 
 ---
 
-2:
+### 2:
 
 ![](../../../resources/screenshots/awscliintro-2.png)
 
@@ -16,7 +18,7 @@
 
 ---
 
-3:
+### 3:
 
 ![](../../../resources/screenshots/awscliintro-3.png)
 

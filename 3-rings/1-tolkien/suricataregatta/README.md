@@ -70,3 +70,5 @@ Answer: **alert http $HOME_NET any <> any any (msg:"Suspicious JavaScript functi
 **alert http $HOME_NET any <> 192.185.57.242 any (msg:"Investigate suspicious connections, possible Dridex infection"; sid:1001;)**
 **alert tls any any -> any any (msg:"Investigate bad certificates, possible Dridex infection"; content:"heardbellith.Icanwepeh.nagoya"; nocase; sid:1002;)**
 **alert http $HOME_NET any <> any any (msg:"Suspicious JavaScript function, possible Dridex infection"; http.response_body; content:"let byteCharacters = atob"; sid:1003;)**
+
+Back to the [Tolkien room](../README.md)
