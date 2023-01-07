@@ -11,8 +11,12 @@
             "id": "038912011b205936",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-northpole/2-labyrinth.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-northpole/2-labyrinth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-northpole/2-labyrinth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-northpole/2-labyrinth.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "038912011b205936",
   "lastOpenFiles": [
+    "3-rings/1-tolkien/README.md",
+    "2-northpole/2-labyrinth.md",
+    "2-northpole/1-northpole.md",
+    "1-orientation/1-orientation.md",
     "resources/screenshots/Pasted image 20221211181235.png",
     "3-rings/3-web/glamtarielsfountain/README.md",
     "README.md",
     "3-rings/2-elfen/README.md",
     "3-rings/2-elfen/jollycicd/README.md",
-    "2-northpole/3-finale.md",
-    "2-northpole/1-northpole.md",
-    "3-rings/5-burningringoffire/README.md",
-    "3-rings/5-burningringoffire/bsrs/README.md",
-    "3-rings/5-burningringoffire/hat/README.md"
+    "2-northpole/3-finale.md"
   ]
 }
