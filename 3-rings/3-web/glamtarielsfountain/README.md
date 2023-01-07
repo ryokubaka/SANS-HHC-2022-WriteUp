@@ -1,3 +1,5 @@
+# Glamtariel's Fountain
+
 ![](../../../resources/screenshots/glamtarielsfountain-intro.png)
 
 We're taken to a website, `https://glamtarielsfountain.com/`. At the bottom we're given two items (note that the "Reset" button in the top right changes these values):
@@ -131,3 +133,5 @@ Response:
 ![](../../../resources/screenshots/glamtarielsfountain-goldring.png)
 
 Answer: `goldring-morethansupertopsecret76394734.png`
+
+Back to the [web room](../README.md)!

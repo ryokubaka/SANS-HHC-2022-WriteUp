@@ -1,3 +1,5 @@
+# Boria Mine Door
+
 ![](../../../resources/screenshots/boriaminedoor-prompt.png)
 
 - Interesting concept - probably going to have to use some kind of crazy fonts to make this happen. It looks like we need to provide text that connect together to input to the next node.  Doing a simple test looks like this:
@@ -36,3 +38,4 @@ Answer:
 
 Maybe I'll come back to this - we technically only need 3 completed locks.
 
+Back to the [web room](../README.md)!

@@ -1,3 +1,5 @@
+# Trufflehog Search
+
 ![](../../../resources/screenshots/gitsecrets-prompt.png)
 
 ### NOTE: Apparently this was intended to be solved using a tool called `trufflehog`. I didn't do that. Oops.
@@ -55,3 +57,5 @@
 ![](../../../resources/screenshots/gitsecrets-answer.png)
 
 Answer: `put_policy.py`
+
+Back to the [cloud ring room](../README.md).

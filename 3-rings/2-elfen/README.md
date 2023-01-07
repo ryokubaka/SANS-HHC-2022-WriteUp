@@ -20,5 +20,5 @@ Now we can interact with the second challenge:
 
 - [`Jolly CI/CD`](jollycicd/README.md)
 
-After this fun challenge, we earned the glorious **Elfen Ring**! Time to backtrack a bit.
+After this fun challenge, we earned the glorious **Elfen Ring**! Time to backtrack a bit to the [labyrinth](../../2-northpole/2-labyrinth.md)/
 

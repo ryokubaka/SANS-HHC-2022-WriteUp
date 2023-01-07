@@ -63,4 +63,4 @@ Well, they already hinted in question 5 that the host IS infected.
 
 Answer: **Yes**
 
-We're done!
+We're done! Back to the [Tolkien room](../README.md)

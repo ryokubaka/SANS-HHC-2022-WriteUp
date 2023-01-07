@@ -25,4 +25,4 @@ After grabbing our wallet address/private key, we speak with Jingle Ringfort aga
 
 This is just a simple demonstration of how terminals work. We type `answer` in the top terminal section, and get 5 gold coins as a reward.
 
-After solving this super difficult problem, the gates open up, and we enter KringleCon!
+After solving this super difficult problem, the gates open up, and we enter [KringleCon](2-northpole/1-northpole.md)!

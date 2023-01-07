@@ -14,7 +14,7 @@ We're given 5 objectives in our badge to collect the five rings below. The links
 
 >[Cloud Ring](3-rings/4-cloud/README.md)
 
->[Burning Ring of Fire](3-rings/5-burningringoffire/README.md)
+>[Burning Ring of Fire](../3-rings/5-burningringoffire/README.md)
 
 ## Secret Backroom
 
@@ -61,6 +61,10 @@ Write it down, NOW, mmmmmkay?
 
 ![](../resources/screenshots/loc-northpoleeastpaths.png)
 
-Looking around the space, we see three paths - in the center leads to a labyrinth, to the northeast leads to a closed door (with Chimney Scissorsticks standing to the right of it), and to the southeast is another closed door.
+Looking around the space, we see three paths - in the center leads to a labyrinth, to the northeast leads to a closed door (with `Chimney Scissorsticks` standing to the right of it), and to the southeast is another closed door.
 
 The only path we can go into is the [North Pole Subterranean Labyrinth](2-labyrinth.md).
+
+---
+
+We have dived all the way to the bottom of the labyrinth, and emerged with all 5 rings. Santa tells us to visit his [Castle](3-finale.md) - a miracle has happened!
