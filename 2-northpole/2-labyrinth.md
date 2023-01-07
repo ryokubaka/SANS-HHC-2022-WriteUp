@@ -45,7 +45,7 @@ Now that we've secured 3 of the 5 rings, we head back out and to the left. As I 
 
 Now we head a little bit deeper into the labyrinth, and find the `Cloud Ring` room to our left, along with `Brozeek` and `Crozag` chilling to our right.
 
-Into the [`Cloud Room`](../3-rings/4-cloud/README) we go!
+Into the [`Cloud Room`](../3-rings/4-cloud/README.md) we go!
 
 ---
 
