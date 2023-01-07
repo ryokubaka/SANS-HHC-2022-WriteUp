@@ -6,13 +6,13 @@ After entering the North Pole, we see Santa in front of us. He tells us that he'
 
 We're given 5 objectives in our badge to collect the five rings below. The links will take you to the write-ups for how we capture the rings!
 
->[Tolkien Ring](3-rings/1-tolkien/README.md)
+>[Tolkien Ring](../3-rings/1-tolkien/README.md)
 
->[Elfen Ring](3-rings/2-elfen/README.md)
+>[Elfen Ring](../3-rings/2-elfen/README.md)
 
->[Web Ring](3-rings/3-web/README.md)
+>[Web Ring](../3-rings/3-web/README.md)
 
->[Cloud Ring](3-rings/4-cloud/README.md)
+>[Cloud Ring](../3-rings/4-cloud/README.md)
 
 >[Burning Ring of Fire](../3-rings/5-burningringoffire/README.md)
 
