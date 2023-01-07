@@ -9,9 +9,16 @@ The SANS Holiday Hack Challenge (HHC) is an event put on annually in December th
 I can do no better of an introduction to the challenge than the authors themselves, so I will simply provide their description below from the [website](https://www.sans.org/mlp/holiday-hack-challenge/):
 
 ```
-Welcome to the annual SANS Holiday Hack Challenge, featuring KringleCon, is a FREE series of super fun, high-quality, hands-on cybersecurity challenges for all skill levels. This unique experience includes real-world challenges and a quirky holiday-themed storyline where you get to save the holiday season from a cyber-attack. You can create your customized avatar and partner with teammates, friends, and players from around the globe in this one-of-a-kind shared virtual experience.
+Welcome to the annual SANS Holiday Hack Challenge, featuring KringleCon, is a FREE series of super fun, high-quality, 
+hands-on cybersecurity challenges for all skill levels. This unique experience includes real-world challenges and a 
+quirky holiday-themed storyline where you get to save the holiday season from a cyber-attack. You can create your 
+customized avatar and partner with teammates, friends, and players from around the globe in this one-of-a-kind shared 
+virtual experience.
 
-The SANS Holiday Hack Challenge includes a built-in virtual conference called KringleCon. Now in its fifth year, KringleCon V: Golden Rings features fascinating talks from cybersecurity industry experts on the latest and most relevant infosec topics (some of which will help you solve the SANS Holiday Hack Challenge). Plus, Santa will share a playlist of newly minted holiday songs to inspire your cybersecurity work.
+The SANS Holiday Hack Challenge includes a built-in virtual conference called KringleCon. Now in its fifth year, 
+KringleCon V: Golden Rings features fascinating talks from cybersecurity industry experts on the latest and most 
+relevant infosec topics (some of which will help you solve the SANS Holiday Hack Challenge). Plus, Santa will share 
+a playlist of newly minted holiday songs to inspire your cybersecurity work.
 ```
 
 ---
